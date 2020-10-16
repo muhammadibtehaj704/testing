@@ -1,0 +1,5 @@
+print("THis is initial comments from RStudio Directly")
+print("insha allah i will become the expert in DataScience")
+print("This is my second file, as first file i got lost :-(")
+print("going to save the files")
+savehistory("C:/Users/Muhamad Ibtehaj/Desktop/testing/testing.Rproj")
